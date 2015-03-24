@@ -17,7 +17,7 @@ The stream proxy builds an executable jar (````mvn package````) that contains al
 dependencies and can be run using the following command line:
 
 ````
-java -jar stream-proxy-1.0.jar <host> <port> <authfile> <dumpdir>
+java -jar stream-proxy-1.3.jar <host> <port> <authfile> <dumpdir>
 ````
 
 - ````host port```` - the hostname and port to listen for requests
