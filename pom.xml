@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (c) 2014 streamdrill UG (haftungsbeschraenkt). All rights reserved.
+  ~ Copyright (c) 2015 streamdrill UG (haftungsbeschraenkt). All rights reserved.
   -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -17,7 +17,7 @@
     </license>
   </licenses>
 
-  <name>Stream Proxy [${project.version}]</name>
+  <name>streamdrill-proxy [${project.version}]</name>
   <description>
     Proxy Streams written to disk by following the file end. Requires the streams to be named after
     the current date they are written (i.e. 2015-01-11.json). The stream files may be gzipped or plain.
